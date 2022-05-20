@@ -18,9 +18,9 @@ This is a solution to the [Stats preview card component  challenge on Frontend M
 
 ### Screenshot
 
-![Desktop Ver.](./screenshot.png)
+![Desktop Ver.](./screenshot.jpeg)
 
-![Mobile(375px) Ver.](./screenshot1.png)
+![Mobile(375px) Ver.](./screenshot1.jpeg)
 
 ## My process
 
